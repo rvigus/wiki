@@ -1,0 +1,11 @@
+event_date,user_id,action_type,duration,location
+2023-05-01,1001,click,20,home
+2023-05-02,1002,scroll,30,product_page
+2023-05-03,1003,hover,10,category_page
+2023-05-04,1004,click,15,home
+2023-05-05,1001,scroll,40,product_page
+2023-05-06,1003,click,25,product_page
+2023-05-07,1002,hover,10,product_page
+2023-05-08,1004,scroll,35,category_page
+2023-05-09,1001,hover,5,home
+2023-05-10,1002,click,30,product_page
